@@ -151,3 +151,4 @@ public class SearchRoom extends JFrame {
         new SearchRoom().setVisible(true);
     }
 }
+// Room validation 
