@@ -79,3 +79,4 @@ public class Dashboard extends JFrame implements ActionListener {
         new Dashboard();
     }
 }
+// UI layout.
