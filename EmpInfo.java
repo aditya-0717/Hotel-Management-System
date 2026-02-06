@@ -133,3 +133,4 @@ public class EmpInfo extends JFrame {
         new EmpInfo().setVisible(true);
     }
 }
+// Shows employee information in a table format with a "Load Data" button to fetch data from the database and a "Back" button to return to the reception screen.
