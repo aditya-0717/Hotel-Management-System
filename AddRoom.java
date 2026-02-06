@@ -139,3 +139,4 @@ public class AddRoom extends JFrame {
 		new AddRoom().setVisible(true);
 	}
 }
+// Room validation 
