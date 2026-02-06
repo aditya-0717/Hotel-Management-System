@@ -133,3 +133,4 @@ public class CustomerInfo extends JFrame {
         new CustomerInfo().setVisible(true);
     }
 }
+// Customer Information JFrame that displays customer data from the database in a JTable. It includes a "Load Data" button to fetch and display the data, and a "Back" button to return to the Reception screen. The table is populated with customer details such as ID, phone number
