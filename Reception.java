@@ -158,3 +158,4 @@ public class Reception extends JFrame {
         new Reception();
     }
 }
+// Reception class creates the main interface for the hotel management system, allowing users to navigate to different functionalities such as adding new customers, viewing room information, employee details, customer information, checking out, searching for rooms, and logging out. Each button is linked to a specific action that opens a new window corresponding to the selected functionality.
