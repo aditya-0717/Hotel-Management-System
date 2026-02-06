@@ -153,3 +153,4 @@ public class CheckOut extends JFrame implements ActionListener {
         new CheckOut();
     }
 }
+// Note: Ensure that the database connection details (URL, username, password) are correct and that the necessary tables (newcustomer, addRoom) exist in the Hotel_db database.
