@@ -131,3 +131,4 @@ public class Room extends JFrame {
         new Room().setVisible(true);
     }
 }
+// It should be noted that the above code assumes that there is a table named "addRoom" in the "Hotel_db" database with the appropriate columns (room_no, Availability, Cleaning_Status, Price, Bed_Type). Make sure to adjust the column names in the SQL query and the ResultSet processing if your database schema differs.
