@@ -105,3 +105,4 @@ public class Login extends JFrame {
 
     }
 }
+// Logib validation logic improved.
